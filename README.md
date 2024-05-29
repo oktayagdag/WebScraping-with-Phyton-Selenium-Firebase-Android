@@ -1,1 +1,1 @@
-![mobile](https://github.com/oktayagdag/webscraping/assets/120986651/4d1fee9c-34b8-4f46-9d8c-1b12cc999aa4)
+![mobil](https://github.com/oktayagdag/webscraping/assets/120986651/8259adf4-2953-488c-8daf-5a8c4e0ec023)
