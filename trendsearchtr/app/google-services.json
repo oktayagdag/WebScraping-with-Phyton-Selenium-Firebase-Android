@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936081297570",
+    "project_id": "trendsearchtr",
+    "storage_bucket": "trendsearchtr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936081297570:android:fcb5c10f26f604759fc7fb",
+        "android_client_info": {
+          "package_name": "software.nyxentech.searchtrendstr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRDtO-rnu2aTEv5u64TL5lrkHCjFFUdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
