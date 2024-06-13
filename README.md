@@ -13,6 +13,9 @@ Python Selenium modulünü kullanarak Google Trends websitesinden çektiğimiz v
 Chrome tarayıcınız ile uyumlu ChromeDriver'ı indirip, yolunu doğru vermeniz.
 Kendi FirebaseRealtime database admin(veritabanına erişimi yetkliendirme) dosyasınızı indirerek ilgili phyton kodu satırına doğru yolu vermeniz.
 
+## Projenin Çalıştırılma Videosu
+[Videoyu İzleyin_>]((https://www.youtube.com/watch?v=ua9dStmtMPM))
+
 
 ## MATERYAL YÖNTEM
 Bu projede kullanılan başlıca yöntem ve araçlar aşağıda sıralanmıştır:
