@@ -44,7 +44,6 @@ time.sleep(5)
 ```
 
 Yukarıdaki kodlarda önce Selenium’un çalışacağı Chrome Driver yolunu belirttik.  ‘headless’ modunda Chrome tarayıcısını başlattık. Devamında Chrome Driver servisi ve Selenium Web Driver’ı başlatılıyor.
-Firebase tarafında ise firebase_admin modulünü ve gerekli sınıfları import ediyoruz. Kimlik doğrulama için veritabanından oluşturup indirdiğim Json dosyamızı da bildiriyoruz. Inıtıalize_app ile Firebase uygulamasını başlatıyoruz ve veritabanı URL’sini veriyoruz. Son olarak daha sonra elde edeceğimiz datayı yollayacağımız ref değişkenini tanımlayıp tablo başlık adını da belirliyoruz.
 
  Firebase tarafında ise firebase_admin modulünü ve gerekli sınıfları import ediyoruz. Kimlik doğrulama için veritabanından oluşturup indirdiğimiz Json dosyamızı da bildiriyoruz. Inıtıalize_app ile Firebase uygulamasını başlatıyoruz ve veritabanı URL’sini veriyoruz. Son olarak daha sonra elde edeceğimiz datayı yollayacağımız ref değişkenini tanımlayıp tablo başlık adını da belirliyoruz.
 
